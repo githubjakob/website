@@ -67,8 +67,9 @@ p {
 }
 
 .main {
-  padding-left: 3%;
-  padding-right: 8%;
+  max-width: 38rem;
+  padding: 3rem;
+  margin: auto;
 }
 
 a {
@@ -158,11 +159,6 @@ img {
     bottom: 0;
   }
 
-  .main {
-    padding-left: 15%;
-    padding-right: 20%;
-  }
-
   .header {
     height: 6em;
   }
@@ -183,11 +179,6 @@ img {
 
   frame {
     padding: 1.4em;
-  }
-
-  .main {
-    padding-left: 25%;
-    padding-right: 20%;
   }
 
   .footer {
