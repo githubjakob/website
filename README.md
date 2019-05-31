@@ -1,7 +1,7 @@
 # Website
 
-## Minify
-https://www.minifier.org/
+## Build
+Run ./build.sh to minify css/js
 
 
 ## FTP
